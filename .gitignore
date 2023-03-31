@@ -1,9 +1,11 @@
-README.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
+**/.mvn/
+**/target/
+/.mvn/wrapper/*
+/.mvn
+/data/
+/src/test/
+/src/test/java/myTest/
 ### STS ###
 .apt_generated
 .classpath
