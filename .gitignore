@@ -1,7 +1,7 @@
 target/
 **/.mvn/
 **/target/
-/.mvn/wrapper/*
+.mvn/
 /.mvn
 /data/
 /src/test/
