@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+#配置访问URL
+communication:
+   url: '{"url1":"localhost:8081/info/name","url2":"localhost:8081/info/name"}'
